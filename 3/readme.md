@@ -6,3 +6,6 @@ ke kampus kuliah offline
 Yg saya pelajari adalah pengenalan awal cara absen menggunakan github
 cara menggunakan css
 belajar secara bertahap
+u=underlane
+p=paragrap
+jangan copy-paste
